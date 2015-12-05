@@ -1,0 +1,1282 @@
+--- &1 !ruby/object:Treat::Entities::Document
+value: ''
+id: 70179661229160
+parent: 
+children:
+- &2 !ruby/object:Treat::Entities::Section
+  value: ''
+  id: 70179660452140
+  parent: *1
+  children:
+  - &3 !ruby/object:Treat::Entities::Title
+    value: 20140501 Albee
+    id: 70179660452820
+    parent: *2
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :title
+  - &4 !ruby/object:Treat::Entities::Paragraph
+    value: Naked again, or, Gone fishing.
+    id: 70179660449400
+    parent: *2
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &5 !ruby/object:Treat::Entities::Paragraph
+    value: The case of a Mr Albee, his wife, and his relationship with invisible God.
+    id: 70179660439100
+    parent: *2
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  children_hash:
+    70179660452820: *3
+    70179660449400: *4
+    70179660439100: *5
+  features: {}
+  edges: []
+  type: :section
+  registry:
+    :id:
+      70179660452820: true
+      70179660449400: true
+      70179660439100: true
+    :value: {}
+    :position:
+      70179660452820: 0
+      70179660449400: 1
+      70179660439100: 2
+    :type:
+      :title: 1
+      :paragraph: 2
+  count: 3
+- &6 !ruby/object:Treat::Entities::Section
+  value: ''
+  id: 70179660435720
+  parent: *1
+  children:
+  - &7 !ruby/object:Treat::Entities::Title
+    value: CALM AND LOW TIDE
+    id: 70179660436580
+    parent: *6
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :title
+  - &8 !ruby/object:Treat::Entities::Paragraph
+    value: Mr Albee was not particularly concerned with appearances, either personal
+      or effectual. It was his position, taken quietly and fundamentally as a kind
+      of vague moralistic attitude, that the important things were the invisible things,
+      and that, excusing the cliché (as he sometimes repeated in earnest collegiate
+      conversations) - one does not judge a book by its cover. "Perhaps just the title,"
+      he would quip, raising an eyebrow and lightening the mood, gently urging the
+      subtle jealous abstraction to disappear into the next thing.
+    id: 70179660433280
+    parent: *6
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &9 !ruby/object:Treat::Entities::Paragraph
+    value: All simple men believe in the invisible, whether the priggish realms of
+      abstraction or the tangible instincts of debauchery, and certainly Mr Albee
+      was among these simple, ready men.
+    id: 70179660414620
+    parent: *6
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &10 !ruby/object:Treat::Entities::Paragraph
+    value: His wife was different. She considered herself a realist, which really
+      meant materialist, and she placed great value in her empirical capacities. As
+      a result she was quick to judge, but life experience had also taught her a willingness
+      to revise her intuitions with reason. She was open and engaging and exceptionally
+      eloquent with company and companions, and won the admiration of many and at
+      least the respect of all. Early practice in handling the world around her with
+      immediacy had taught her tact at an early age, and even her peers in primary
+      school had noticed her social grace, rooted in a very natural feminine empathy.
+    id: 70179660412740
+    parent: *6
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &11 !ruby/object:Treat::Entities::Paragraph
+    value: Her husband valued this grace most of all, which he recognized himself
+      slightly lacking and didn't fully understand, and respected her intellect, though
+      very secretly considering himself her superior in the genre. She, on the other
+      hand, found him radiant in an academic kind of way, subtly absent, but indeed
+      a fine partner.
+    id: 70179660410740
+    parent: *6
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &12 !ruby/object:Treat::Entities::Paragraph
+    value: They were happy. Not flamboyantly so, but steadily, patiently, and decently.
+      Edward Albee, the philosopher, and Laura Albee, the conversationalist. That
+      was how they saw themselves, in a general kind of way.
+    id: 70179660408740
+    parent: *6
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &13 !ruby/object:Treat::Entities::Paragraph
+    value: On one point especially the two did in fact agree as completely as two
+      individuals can be claimed to, and that was the matter of their perpetual boat,
+      now The Duchess. Having both been raised in Providence, and both of bourgeois
+      families, the two had grown up by the ocean (though they didn't meet in person
+      until their university times, where they had recognized each others' names and
+      privately neither thought it a pity they hadn't met sooner) and it had been
+      both of their wishes to remain forever on the coast, which they did.
+    id: 70179660406800
+    parent: *6
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &14 !ruby/object:Treat::Entities::Paragraph
+    value: 'Although they never saw it this way, the coast was a fitting place for
+      them, metaphorically speaking. An abrupt boundary between two vast, nearly infinite
+      and unlivably hospitable  environments. The ocean: the mystic, invisible, dynamic
+      homogeny. The land: the obvious, tangible, populous, and practical. What a thin
+      boundary it is.'
+    id: 70179660388400
+    parent: *6
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  children_hash:
+    70179660436580: *7
+    70179660433280: *8
+    70179660414620: *9
+    70179660412740: *10
+    70179660410740: *11
+    70179660408740: *12
+    70179660406800: *13
+    70179660388400: *14
+  features: {}
+  edges: []
+  type: :section
+  registry:
+    :id:
+      70179660436580: true
+      70179660433280: true
+      70179660414620: true
+      70179660412740: true
+      70179660410740: true
+      70179660408740: true
+      70179660406800: true
+      70179660388400: true
+    :value: {}
+    :position:
+      70179660436580: 0
+      70179660433280: 1
+      70179660414620: 2
+      70179660412740: 3
+      70179660410740: 4
+      70179660408740: 5
+      70179660406800: 6
+      70179660388400: 7
+    :type:
+      :title: 1
+      :paragraph: 7
+  count: 8
+- &15 !ruby/object:Treat::Entities::Section
+  value: ''
+  id: 70179660385940
+  parent: *1
+  children:
+  - &16 !ruby/object:Treat::Entities::Title
+    value: THE BOAT
+    id: 70179660386580
+    parent: *15
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :title
+  - &17 !ruby/object:Treat::Entities::Paragraph
+    value: Their boat had been moored now for 12 years at the PYC, as it was euphemistically
+      known among the aristocrats, which stood for Providence Yacht Club.
+    id: 70179660383780
+    parent: *15
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &18 !ruby/object:Treat::Entities::Paragraph
+    value: Money being an ultimate watery abstraction, and man never so deeply keen
+      to lose sight of land, the club and its physical accessories were a constant
+      reassurance to yachters in both social and ethical ways. Men who work sitting
+      down crave things like the smell of marine fuel and slimy, weathered ropes and
+      the occasional blisters they get from them and seeing the rubber bumpers bulge
+      with the pressure of a 15-ton sailboat siding to the dock. Mr Albee uniquely
+      savored a window seat in the marina restaurant on windy days and watching the
+      square docks with their buoyant luggage bob in the circumsized waves, and how
+      the dock boys, he noticed, would be slightly on edge, grouped more closely than
+      usual by the fuel pumps, waiting to see if rain would come or something would
+      happen.
+    id: 70179660373640
+    parent: *15
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &19 !ruby/object:Treat::Entities::Paragraph
+    value: The Duchess was a 35-foot wooden sailboat and their acquiring it had been
+      a transaction of which Mr Albee was openly proud of.
+    id: 70179660371680
+    parent: *15
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &20 !ruby/object:Treat::Entities::Paragraph
+    value: '"It was originally based in Boston about a decade," he would say, "and
+      belonged to a man who, apparently, made quite a go of green lumber in the 90s,
+      and when he upgraded he sold it to the man I bought it from, based out of Baltimore.
+      Know who that was?"'
+    id: 70179660369700
+    parent: *15
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  children_hash:
+    70179660386580: *16
+    70179660383780: *17
+    70179660373640: *18
+    70179660371680: *19
+    70179660369700: *20
+  features: {}
+  edges: []
+  type: :section
+  registry:
+    :id:
+      70179660386580: true
+      70179660383780: true
+      70179660373640: true
+      70179660371680: true
+      70179660369700: true
+    :value: {}
+    :position:
+      70179660386580: 0
+      70179660383780: 1
+      70179660373640: 2
+      70179660371680: 3
+      70179660369700: 4
+    :type:
+      :title: 1
+      :paragraph: 4
+  count: 5
+- &21 !ruby/object:Treat::Entities::Section
+  value: ''
+  id: 70179660343500
+  parent: *1
+  children:
+  - &22 !ruby/object:Treat::Entities::Title
+    value: '"Who?"'
+    id: 70179660344040
+    parent: *21
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :title
+  - &23 !ruby/object:Treat::Entities::Paragraph
+    value: '"Ted Greeley''s son. The mayor of Baltimore''s son. He''s an M&A guy and
+      bought it for his wife for a wedding present back in,  ''93 I think. Harvard
+      guy."'
+    id: 70179660332880
+    parent: *21
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &24 !ruby/object:Treat::Entities::Paragraph
+    value: '"It''s good to get a boat from a man you can trust."'
+    id: 70179660330780
+    parent: *21
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &25 !ruby/object:Treat::Entities::Paragraph
+    value: And they wink non-winks and smirk non-smirks and nod at the double-folded
+      irony that works like a secret handshake among the elite. Plus he got a good
+      deal on it, too.
+    id: 70179660328580
+    parent: *21
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &26 !ruby/object:Treat::Entities::Paragraph
+    value: Mr Albee was a lawyer himself, doing mostly anti-trust work in the commodities
+      industry, and was made partner at his firm Tanney & Fitz & Co. eight years after
+      he joined right out of law school at Duke.
+    id: 70179660326420
+    parent: *21
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &27 !ruby/object:Treat::Entities::Paragraph
+    value: The work suited him. It was mainly intellectual, he thought, and he liked
+      reading the obligatory quarterly subscription journals. He had even been published
+      in Anti/Trust with a recording of his experience in Bolivian rubber in the Fall
+      of 2004, when Engelman tried to buy MME, which would have leveraged their position
+      to 93% yield and 95% distribution of North-Eastern South American rubber (they,
+      however, lost the case and MME grew 6%, presumably riding publicity, and now
+      enjoys an unpredicted, though potentially short-lived regional dominance).
+    id: 70179660307840
+    parent: *21
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &28 !ruby/object:Treat::Entities::Paragraph
+    value: Reason versus reason, he thought. The opportunity to define justice was
+      what it essentially was, and he was lucky to have a hand in shaping fair markets
+      on an international scale. Not bad.
+    id: 70179660305620
+    parent: *21
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &29 !ruby/object:Treat::Entities::Paragraph
+    value: Mrs Albee was herself a retired ad-woman, having worked for Dunby & Dunby
+      for a grand total of nine years, four before the kids and five after they left
+      the house. She was a copy writer and a damn good one. As I've said, words were
+      a specialty of hers, and she too had enjoyed her work.
+    id: 70179660303500
+    parent: *21
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  children_hash:
+    70179660344040: *22
+    70179660332880: *23
+    70179660330780: *24
+    70179660328580: *25
+    70179660326420: *26
+    70179660307840: *27
+    70179660305620: *28
+    70179660303500: *29
+  features: {}
+  edges: []
+  type: :section
+  registry:
+    :id:
+      70179660344040: true
+      70179660332880: true
+      70179660330780: true
+      70179660328580: true
+      70179660326420: true
+      70179660307840: true
+      70179660305620: true
+      70179660303500: true
+    :value: {}
+    :position:
+      70179660344040: 0
+      70179660332880: 1
+      70179660330780: 2
+      70179660328580: 3
+      70179660326420: 4
+      70179660307840: 5
+      70179660305620: 6
+      70179660303500: 7
+    :type:
+      :title: 1
+      :paragraph: 7
+  count: 8
+- &30 !ruby/object:Treat::Entities::Section
+  value: ''
+  id: 70179660300660
+  parent: *1
+  children:
+  - &31 !ruby/object:Treat::Entities::Title
+    value: '"Excellence in motion" (Reebok),'
+    id: 70179660301340
+    parent: *30
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :title
+  children_hash:
+    70179660301340: *31
+  features: {}
+  edges: []
+  type: :section
+  registry:
+    :id:
+      70179660301340: true
+    :value: {}
+    :position:
+      70179660301340: 0
+    :type:
+      :title: 1
+  count: 1
+- &32 !ruby/object:Treat::Entities::Section
+  value: ''
+  id: 70179660281280
+  parent: *1
+  children:
+  - &33 !ruby/object:Treat::Entities::Title
+    value: '"Perpetual revolution" (Mazda),'
+    id: 70179660281960
+    parent: *32
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :title
+  - &34 !ruby/object:Treat::Entities::Paragraph
+    value: '"For life" (GE), and so on.'
+    id: 70179660279000
+    parent: *32
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &35 !ruby/object:Treat::Entities::Paragraph
+    value: It was nice to be a part of a small, diverse, energetic group outside the
+      house and she liked seeing the words she had been responsible for "come alive"
+      in public, on billboards or in magazines or what have you.
+    id: 70179660276720
+    parent: *32
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &36 !ruby/object:Treat::Entities::Paragraph
+    value: Happiness. Whatever it was, is, they had it. Smooth sailing. They even
+      wore cut-off jean shorts to a friend's second wedding once and it was hilarious
+      in just the right way.
+    id: 70179660265360
+    parent: *32
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  children_hash:
+    70179660281960: *33
+    70179660279000: *34
+    70179660276720: *35
+    70179660265360: *36
+  features: {}
+  edges: []
+  type: :section
+  registry:
+    :id:
+      70179660281960: true
+      70179660279000: true
+      70179660276720: true
+      70179660265360: true
+    :value: {}
+    :position:
+      70179660281960: 0
+      70179660279000: 1
+      70179660276720: 2
+      70179660265360: 3
+    :type:
+      :title: 1
+      :paragraph: 3
+  count: 4
+- &37 !ruby/object:Treat::Entities::Section
+  value: ''
+  id: 70179660262460
+  parent: *1
+  children:
+  - &38 !ruby/object:Treat::Entities::Title
+    value: THE WIND
+    id: 70179660263120
+    parent: *37
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :title
+  - &39 !ruby/object:Treat::Entities::Paragraph
+    value: It was just beginning to be summer, and summer is drinking season.
+    id: 70179660260160
+    parent: *37
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &40 !ruby/object:Treat::Entities::Paragraph
+    value: As a function of his personage's continuity, there arose in Mr Albee a
+      repulsion from violence. You see, simplicity, while harboring certain connotations
+      of limitations and absences, by no means implies dumbness or narrowness or smallness,
+      but rather an iteration of conscious choices which serve order before precision.
+      It is a homogenization, a unification, and when the mind is secured by a notion
+      of the invisible, the world does not change so much with each blink, and the
+      man may become more the man. Indeed, simple eyelids may not shut the world out,
+      but keep it in, cloaked in the burning black.
+    id: 70179660241480
+    parent: *37
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &41 !ruby/object:Treat::Entities::Paragraph
+    value: But the outside world is a violent place, and the jostlings of its carriages
+      inevitably grind pieces away and room for the next generation opens up. That's
+      just how it works, and any nitwit physicist will tell you that indeed, Madame
+      Entropy is nobody's bitch.
+    id: 70179660239300
+    parent: *37
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &42 !ruby/object:Treat::Entities::Paragraph
+    value: I digress. Drinking. The ocean. Alcohol is any self-respecting captain's
+      constant stowaway and mate, and the liquid analogy has, I'm sure, not gone unnoticed
+      by more than a few.
+    id: 70179660237100
+    parent: *37
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &43 !ruby/object:Treat::Entities::Paragraph
+    value: There were only a few times in Mr Albee's adult life when he really let
+      loose, given that a significant, though now decreasing, portion of his life
+      was dedicated to the jurisdictional reverie, and the summertime was one of the
+      rare select. The indulgences the elite enjoy with regard to alcohol can be understood
+      on the order of their attraction to yachts; as a sort of spotless noblesse obligé,
+      granted in and by those lofty pitches and sinking throws, where the ugly, thrilling
+      brutish charisma can be glimpsed and the primacy of fingers and hands, skulls
+      and teeth can be felt and thus understood, legitimated by what are essentially
+      petty material circumstances.
+    id: 70179660234880
+    parent: *37
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &44 !ruby/object:Treat::Entities::Paragraph
+    value: This is what they teach you in college, and Mr Albee had always been an
+      eager, interdisciplinary student, aiming and usually succeeding at fitting in
+      with a desirable level of excellence. Too much and you become an animal, too
+      little and you became a monster. He was happy with medium personage and its
+      afforded comforts, intent to focus his sober productive efforts on somehow forging
+      a meaningful and potentially enduring intellectual impression, which is also
+      taught.
+    id: 70179660216180
+    parent: *37
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &45 !ruby/object:Treat::Entities::Paragraph
+    value: THE WAVES - The anniversary of Mr and Mrs and Albee, marking the taking
+      of name and swearing of allegiance.
+    id: 70179660213920
+    parent: *37
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &46 !ruby/object:Treat::Entities::Paragraph
+    value: Their plan that year was to take The Duchess out for her annual inauguration,
+      drink a bottle or two of wine, get mischievious, drink a cup of coffee or two
+      in the morning and head south towards North Carolina, where Laura had cousins
+      in Myrtle Beach. The whole trip would take three weeks, and he had scheduled
+      the time off work in December. They had done something like this before, oh,
+      ten or twelve years ago. And with his seniority now three weeks was no problem
+      and he could have gotten longer if he wanted it, but she had felt obliged to
+      get back to accompany a former colleague and friend of hers to a Saturday-night
+      Dixie Chicks concert in Atlantic City. Like old times, you know.
+    id: 70179660211580
+    parent: *37
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &47 !ruby/object:Treat::Entities::Paragraph
+    value: He spent midday double-checking the boat's equipment and assuring himself
+      that everything on the list had made it aboard and she did a final sweep of
+      the house to make sure there was nothing they had forgotten and confirmed plans
+      to have the plants watered and the mail held. She remembered her books, some
+      trashy, some canonical, which had been almost lost under that day's copy of
+      the newspaper on the foyer table and was glad they weren't.
+    id: 70179660193080
+    parent: *37
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &48 !ruby/object:Treat::Entities::Paragraph
+    value: Not unusually Mr Albee greeted her at the boat, ready with two tumblers
+      of Wild Turkey over one rock, his favorite and her second - her first being
+      Jack, neat. Those drinks had been the topic of their first conversation; she
+      had teased him about the ice and, while caught somewhat off guard, he had caught
+      on not too late and recovered with a decent rejoinder about her then- smoking
+      habit being fire. It was corny but due to the very fashionable horny-rimmed
+      glasses shielding his watery eyes it was enough.
+    id: 70179660191080
+    parent: *37
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &49 !ruby/object:Treat::Entities::Paragraph
+    value: She drank half hers and he twice his as they escaped the harbor and glided
+      in the ocean, pulsing with the waves and their dilated vessels from again-virgin
+      exposure to the reflected sun and the fiery drink. On the boat they made a good
+      team, having had copious sailing experience between them, both alone and together,
+      though usually together. The wheel was his and the sails were hers and they
+      got about 12 knots an hour.
+    id: 70179660188900
+    parent: *37
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &50 !ruby/object:Treat::Entities::Paragraph
+    value: Mrs Albee had brought along a club sandwich for herself and a reuben for
+      him and secretly, too, a bottle of brut champagne as a surprise; a new article
+      in their reminiscent tradition.
+    id: 70179660186600
+    parent: *37
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &51 !ruby/object:Treat::Entities::Paragraph
+    value: The charts read eight miles from shore where they let the sails luff and
+      allowed the boat to drift, and by the time they kicked their feet over the port
+      and western side of the boat, settling in comfortably to their sandwiches and
+      glasses of Argentinian Malbec, the sun was less bright, visible only as a thin
+      horizontal tangent over the far-away US. Soon it disappeared, leaving soft technicolor
+      reflections in the sky, and they were alone, finally. Cheers.
+    id: 70179660176200
+    parent: *37
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  children_hash:
+    70179660263120: *38
+    70179660260160: *39
+    70179660241480: *40
+    70179660239300: *41
+    70179660237100: *42
+    70179660234880: *43
+    70179660216180: *44
+    70179660213920: *45
+    70179660211580: *46
+    70179660193080: *47
+    70179660191080: *48
+    70179660188900: *49
+    70179660186600: *50
+    70179660176200: *51
+  features: {}
+  edges: []
+  type: :section
+  registry:
+    :id:
+      70179660263120: true
+      70179660260160: true
+      70179660241480: true
+      70179660239300: true
+      70179660237100: true
+      70179660234880: true
+      70179660216180: true
+      70179660213920: true
+      70179660211580: true
+      70179660193080: true
+      70179660191080: true
+      70179660188900: true
+      70179660186600: true
+      70179660176200: true
+    :value: {}
+    :position:
+      70179660263120: 0
+      70179660260160: 1
+      70179660241480: 2
+      70179660239300: 3
+      70179660237100: 4
+      70179660234880: 5
+      70179660216180: 6
+      70179660213920: 7
+      70179660211580: 8
+      70179660193080: 9
+      70179660191080: 10
+      70179660188900: 11
+      70179660186600: 12
+      70179660176200: 13
+    :type:
+      :title: 1
+      :paragraph: 13
+  count: 14
+- &52 !ruby/object:Treat::Entities::Section
+  value: ''
+  id: 70179660173260
+  parent: *1
+  children:
+  - &53 !ruby/object:Treat::Entities::Title
+    value: THE INVISIBLE
+    id: 70179660173960
+    parent: *52
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :title
+  - &54 !ruby/object:Treat::Entities::Paragraph
+    value: They finished their dinner in satiated silence, listening to the tireless
+      pulsing of the waves on the hull.
+    id: 70179660170900
+    parent: *52
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &55 !ruby/object:Treat::Entities::Paragraph
+    value: '"What else is there," said Mr Albee, melting into and maybe from the quiet
+      rhythm.'
+    id: 70179660151960
+    parent: *52
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &56 !ruby/object:Treat::Entities::Paragraph
+    value: He meant it as a half-rhetorical question but left off the question-mark,
+      a symptom of a not insignificant inebriation and its meditative workings on
+      his mind; the external, material inhibitions faded and he was folding more into
+      himself. In private he often seemed to see from far away, an habitual perspective
+      he had never spoken of directly with his wife, though reflective discussions
+      of that type were not for them unknown. Perhaps he had taken it for granted
+      himself, its abstraction laying as-yet uncovered or unformed, as the case may
+      be, in the few unreasoned parts of his skull.
+    id: 70179660149660
+    parent: *52
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &57 !ruby/object:Treat::Entities::Paragraph
+    value: '"Yes, well, there is this… Give me a moment," she said, and rose to procure
+      the brut from its hiding place in the cabin.'
+    id: 70179660147400
+    parent: *52
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &58 !ruby/object:Treat::Entities::Paragraph
+    value: She returned, holding it near her heart, playing the maitre'de with a half-smile.
+    id: 70179660145100
+    parent: *52
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &59 !ruby/object:Treat::Entities::Paragraph
+    value: '"Ta da, we''re like real people now," she said.'
+    id: 70179660126420
+    parent: *52
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &60 !ruby/object:Treat::Entities::Paragraph
+    value: "\"Oh, how… sparkly!,” he said teasingly, and kissed his wife as she sat
+      down beside him, the champagne still between them, as if the bottle were being
+      somehow christened."
+    id: 70179660124120
+    parent: *52
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &61 !ruby/object:Treat::Entities::Paragraph
+    value: '"We don''t have to finish it," she said, smiling, "and anything we don''t
+      want will go to the fish; champagne is never as good once it''s been opened."'
+    id: 70179660121900
+    parent: *52
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &62 !ruby/object:Treat::Entities::Paragraph
+    value: Glasses were arranged and they toasted.
+    id: 70179660111200
+    parent: *52
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &63 !ruby/object:Treat::Entities::Paragraph
+    value: '"To us," Edward declared, "as we were and as we will be."'
+    id: 70179660108960
+    parent: *52
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &64 !ruby/object:Treat::Entities::Paragraph
+    value: It was delicious and Mr Albee felt more comfortable than, maybe, he thought,
+      any time in his whole life. He felt a powerful, satiated man.
+    id: 70179660106780
+    parent: *52
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &65 !ruby/object:Treat::Entities::Paragraph
+    value: The fish went thirsty.
+    id: 70179660104500
+    parent: *52
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  children_hash:
+    70179660173960: *53
+    70179660170900: *54
+    70179660151960: *55
+    70179660149660: *56
+    70179660147400: *57
+    70179660145100: *58
+    70179660126420: *59
+    70179660124120: *60
+    70179660121900: *61
+    70179660111200: *62
+    70179660108960: *63
+    70179660106780: *64
+    70179660104500: *65
+  features: {}
+  edges: []
+  type: :section
+  registry:
+    :id:
+      70179660173960: true
+      70179660170900: true
+      70179660151960: true
+      70179660149660: true
+      70179660147400: true
+      70179660145100: true
+      70179660126420: true
+      70179660124120: true
+      70179660121900: true
+      70179660111200: true
+      70179660108960: true
+      70179660106780: true
+      70179660104500: true
+    :value: {}
+    :position:
+      70179660173960: 0
+      70179660170900: 1
+      70179660151960: 2
+      70179660149660: 3
+      70179660147400: 4
+      70179660145100: 5
+      70179660126420: 6
+      70179660124120: 7
+      70179660121900: 8
+      70179660111200: 9
+      70179660108960: 10
+      70179660106780: 11
+      70179660104500: 12
+    :type:
+      :title: 1
+      :paragraph: 12
+  count: 13
+- &66 !ruby/object:Treat::Entities::Section
+  value: ''
+  id: 70179660093440
+  parent: *1
+  children:
+  - &67 !ruby/object:Treat::Entities::Title
+    value: GOD
+    id: 70179660094120
+    parent: *66
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :title
+  - &68 !ruby/object:Treat::Entities::Paragraph
+    value: '"You know, its times like this make me want to believe in God," said Mr
+      Albee, his voice syrupy from the liquor.'
+    id: 70179660091060
+    parent: *66
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &69 !ruby/object:Treat::Entities::Paragraph
+    value: '"It''s majestic out here, darling, I know. You can feel so small and so
+      big at the same time."'
+    id: 70179660088800
+    parent: *66
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &70 !ruby/object:Treat::Entities::Paragraph
+    value: '"But I mean us, out here, too. I mean how could we ever have expected...
+      this. I mean look at us, look at the boat. To get everything we wanted, and
+      now more. Twenty-seven''s a big number."'
+    id: 70179660062020
+    parent: *66
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &71 !ruby/object:Treat::Entities::Paragraph
+    value: '"Did you think we wouldn''t make it?" she asked with half-playful courteous
+      irony.'
+    id: 70179660059680
+    parent: *66
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &72 !ruby/object:Treat::Entities::Paragraph
+    value: '"No honey, of course we''d make it. Couldn''t a been any other way. I
+      just mean - look at this," he said shrugging his shoulders and leaning back
+      with his elbows on the deck. Ta da, he thought.'
+    id: 70179660057600
+    parent: *66
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &73 !ruby/object:Treat::Entities::Paragraph
+    value: In the seas of the mind anything is possible; the structures of abstraction
+      are shifty and by no means does reason occupy or determine a solid foundation.
+      The furthest bounds of those reaches of reason are as ornery as the crumbling
+      edge of an ice raft, and they forfeit a dark secret about the whole; namely,
+      dependence on the water temperature.
+    id: 70179660055360
+    parent: *66
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &74 !ruby/object:Treat::Entities::Paragraph
+    value: 'She looked at him looking at the scene. His eyes were focused somewhere
+      just below the horizon, a long ways away. She was bothered by Mr Albee''s passive
+      sentimentalism. She felt bored by it and it made her ferocious. He was becoming
+      removed, a transcendent man, and she could think of nothing less... sexy, at
+      the moment. She knew that he was watching them, their story, together on the
+      boat, framed in a black calendar box - JUNE 1, #27 - sailing into the sunset.
+      He was looking at her, staring into the ocean.'
+    id: 70179660044640
+    parent: *66
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &75 !ruby/object:Treat::Entities::Paragraph
+    value: '"Edward," she said, placing her hand in his, "I am here. This is me, my
+      hand, not our hand. We are not only us, we are me, and you. If you ever forget
+      that again, I''ll leave you."'
+    id: 70179660042240
+    parent: *66
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  - &76 !ruby/object:Treat::Entities::Paragraph
+    value: '"Sarah, shut up and look at the god damn sunset. It''s beautiful."'
+    id: 70179660040020
+    parent: *66
+    children: []
+    children_hash: {}
+    features: {}
+    edges: []
+    type: :paragraph
+  children_hash:
+    70179660094120: *67
+    70179660091060: *68
+    70179660088800: *69
+    70179660062020: *70
+    70179660059680: *71
+    70179660057600: *72
+    70179660055360: *73
+    70179660044640: *74
+    70179660042240: *75
+    70179660040020: *76
+  features: {}
+  edges: []
+  type: :section
+  registry:
+    :id:
+      70179660094120: true
+      70179660091060: true
+      70179660088800: true
+      70179660062020: true
+      70179660059680: true
+      70179660057600: true
+      70179660055360: true
+      70179660044640: true
+      70179660042240: true
+      70179660040020: true
+    :value: {}
+    :position:
+      70179660094120: 0
+      70179660091060: 1
+      70179660088800: 2
+      70179660062020: 3
+      70179660059680: 4
+      70179660057600: 5
+      70179660055360: 6
+      70179660044640: 7
+      70179660042240: 8
+      70179660040020: 9
+    :type:
+      :title: 1
+      :paragraph: 9
+  count: 10
+children_hash:
+  70179660452140: *2
+  70179660435720: *6
+  70179660385940: *15
+  70179660343500: *21
+  70179660300660: *30
+  70179660281280: *32
+  70179660262460: *37
+  70179660173260: *52
+  70179660093440: *66
+features:
+  :file: "/Users/ia/sandbox/grammatizer/documents/albee.md"
+  :format: txt
+  :keywords: []
+edges: []
+type: :document
+registry:
+  :id:
+    70179660452140: true
+    70179660452820: true
+    70179660449400: true
+    70179660439100: true
+    70179660435720: true
+    70179660436580: true
+    70179660433280: true
+    70179660414620: true
+    70179660412740: true
+    70179660410740: true
+    70179660408740: true
+    70179660406800: true
+    70179660388400: true
+    70179660385940: true
+    70179660386580: true
+    70179660383780: true
+    70179660373640: true
+    70179660371680: true
+    70179660369700: true
+    70179660343500: true
+    70179660344040: true
+    70179660332880: true
+    70179660330780: true
+    70179660328580: true
+    70179660326420: true
+    70179660307840: true
+    70179660305620: true
+    70179660303500: true
+    70179660300660: true
+    70179660301340: true
+    70179660281280: true
+    70179660281960: true
+    70179660279000: true
+    70179660276720: true
+    70179660265360: true
+    70179660262460: true
+    70179660263120: true
+    70179660260160: true
+    70179660241480: true
+    70179660239300: true
+    70179660237100: true
+    70179660234880: true
+    70179660216180: true
+    70179660213920: true
+    70179660211580: true
+    70179660193080: true
+    70179660191080: true
+    70179660188900: true
+    70179660186600: true
+    70179660176200: true
+    70179660173260: true
+    70179660173960: true
+    70179660170900: true
+    70179660151960: true
+    70179660149660: true
+    70179660147400: true
+    70179660145100: true
+    70179660126420: true
+    70179660124120: true
+    70179660121900: true
+    70179660111200: true
+    70179660108960: true
+    70179660106780: true
+    70179660104500: true
+    70179660093440: true
+    70179660094120: true
+    70179660091060: true
+    70179660088800: true
+    70179660062020: true
+    70179660059680: true
+    70179660057600: true
+    70179660055360: true
+    70179660044640: true
+    70179660042240: true
+    70179660040020: true
+  :value: {}
+  :position:
+    70179660452140: 0
+    70179660452820: 1
+    70179660449400: 2
+    70179660439100: 3
+    70179660435720: 4
+    70179660436580: 5
+    70179660433280: 6
+    70179660414620: 7
+    70179660412740: 8
+    70179660410740: 9
+    70179660408740: 10
+    70179660406800: 11
+    70179660388400: 12
+    70179660385940: 13
+    70179660386580: 14
+    70179660383780: 15
+    70179660373640: 16
+    70179660371680: 17
+    70179660369700: 18
+    70179660343500: 19
+    70179660344040: 20
+    70179660332880: 21
+    70179660330780: 22
+    70179660328580: 23
+    70179660326420: 24
+    70179660307840: 25
+    70179660305620: 26
+    70179660303500: 27
+    70179660300660: 28
+    70179660301340: 29
+    70179660281280: 30
+    70179660281960: 31
+    70179660279000: 32
+    70179660276720: 33
+    70179660265360: 34
+    70179660262460: 35
+    70179660263120: 36
+    70179660260160: 37
+    70179660241480: 38
+    70179660239300: 39
+    70179660237100: 40
+    70179660234880: 41
+    70179660216180: 42
+    70179660213920: 43
+    70179660211580: 44
+    70179660193080: 45
+    70179660191080: 46
+    70179660188900: 47
+    70179660186600: 48
+    70179660176200: 49
+    70179660173260: 50
+    70179660173960: 51
+    70179660170900: 52
+    70179660151960: 53
+    70179660149660: 54
+    70179660147400: 55
+    70179660145100: 56
+    70179660126420: 57
+    70179660124120: 58
+    70179660121900: 59
+    70179660111200: 60
+    70179660108960: 61
+    70179660106780: 62
+    70179660104500: 63
+    70179660093440: 64
+    70179660094120: 65
+    70179660091060: 66
+    70179660088800: 67
+    70179660062020: 68
+    70179660059680: 69
+    70179660057600: 70
+    70179660055360: 71
+    70179660044640: 72
+    70179660042240: 73
+    70179660040020: 74
+  :type:
+    :section: 9
+    :title: 9
+    :paragraph: 57
+count: 75
